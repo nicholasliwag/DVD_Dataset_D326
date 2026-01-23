@@ -42,22 +42,28 @@ A6. Report Freshness:
 
 Since the report analyzes the rental amount for each month, it should be updated monthly to remain relevant.
 
-B. Functions
+B. Functions:
+
 Check project.sql
 
-C. Creating Tables
+C. Creating Tables:
+
 Check project.sql
 
-D. SQL Query
-Check project.sql
+D. SQL Query:
 
-
-E. Triggers
-Check project.sql
-
-F. Stored Procedures
 Check project.sql
 
 
-F1. Job Scheduling Tool
+E. Triggers:
+
+Check project.sql
+
+F. Stored Procedures:
+
+Check project.sql
+
+
+F1. Job Scheduling Tool:
+
 Since this job-scheduling tool supports PostgreSQL, pgAgent would be the best option for automating the stored procedure. This tool can also be managed by PgAdmin4.
